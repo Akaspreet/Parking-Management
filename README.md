@@ -14,6 +14,8 @@ My project some basic operation of parking as we seen in our daily life and I us
 3.	I set maximum space for all kinds of vehicles.
 4.	Then I use simple loops and check conditions and run accordingly and set different operations at different integer input in switch case.
 
+## Results
+
 ![Screenshot (233)](https://user-images.githubusercontent.com/72460920/186490901-89ecafb6-5a18-4363-8f5b-bf012f9c323e.png)
 
 
